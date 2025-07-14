@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mini_blue_screwdriver_0: -2297387597869973233
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

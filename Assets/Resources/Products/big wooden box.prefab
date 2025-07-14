@@ -101,6 +101,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 236d9f228652ef44383b58412e030f5f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Id: big wooden box
   defScale: {x: 0, y: 0}
   offset: {x: 0, y: 0.25}
   dig0: {fileID: 21300000, guid: afab6c37245a5e143bf9ea72abe01a5f, type: 3}
@@ -109,7 +110,9 @@ MonoBehaviour:
   isHolding: 0
   openSprite: {fileID: 21300000, guid: af4710ae947b0d241af5763fe75c9789, type: 3}
   openScale: {x: 2, y: 2}
+  price: 0
   isOpened: 0
+  productsInBox: []
 --- !u!61 &1387533655361271586
 BoxCollider2D:
   m_ObjectHideFlags: 0

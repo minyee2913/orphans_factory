@@ -7,6 +7,7 @@ public class Box : Product
     BoxCollider2D boxCollider;
     public Sprite openSprite;
     public Vector2 openScale;
+    public int price;
     public bool isOpened;
     
     public List<Product> productsInBox = new List<Product>();

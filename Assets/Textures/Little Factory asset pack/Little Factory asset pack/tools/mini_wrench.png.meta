@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mini_wrench_0: 3998572590521734174
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

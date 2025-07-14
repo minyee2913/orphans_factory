@@ -4,8 +4,9 @@ public class Product : MonoBehaviour
 {
     public string Id;
     protected SpriteRenderer render;
+    [HideInInspector]
     public Vector2 defScale;
-    const float nearDist = 2;
+    const float nearDist = 2.5f;
     public Vector2 offset;
     public Sprite dig0, dig45;
     public bool onConvey, isHolding;

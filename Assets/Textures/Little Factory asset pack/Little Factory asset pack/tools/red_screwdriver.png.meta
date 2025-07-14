@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      red_screwdriver_0: -2739027130635869522
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

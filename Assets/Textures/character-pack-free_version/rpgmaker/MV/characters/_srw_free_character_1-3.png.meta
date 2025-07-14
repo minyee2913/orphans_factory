@@ -747,7 +747,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      _srw_free_character_1-3_0: -1887359541320500383
+      _srw_free_character_1-3_1: -5342848031565846928
+      _srw_free_character_1-3_10: -8415379151248717097
+      _srw_free_character_1-3_11: -6194950295719521222
+      _srw_free_character_1-3_12: 2707707680044477677
+      _srw_free_character_1-3_13: -3952302899618386856
+      _srw_free_character_1-3_14: -7284660009235686477
+      _srw_free_character_1-3_15: 1569563818882349138
+      _srw_free_character_1-3_16: -2052766319126226057
+      _srw_free_character_1-3_17: -1753111863207456304
+      _srw_free_character_1-3_18: 7459984849293698096
+      _srw_free_character_1-3_19: -2020034399124053983
+      _srw_free_character_1-3_2: -4347829046808763792
+      _srw_free_character_1-3_20: -3210741150531363796
+      _srw_free_character_1-3_21: 5320356623368297857
+      _srw_free_character_1-3_22: -3472602235417934078
+      _srw_free_character_1-3_23: 5728029217069258639
+      _srw_free_character_1-3_24: -4128359791856670027
+      _srw_free_character_1-3_3: -4544674853579430585
+      _srw_free_character_1-3_4: 5487293496160622651
+      _srw_free_character_1-3_5: 3243388940743886498
+      _srw_free_character_1-3_6: -254588360310919291
+      _srw_free_character_1-3_7: 1561271981625901716
+      _srw_free_character_1-3_8: -3328876398559000141
+      _srw_free_character_1-3_9: -4552395729193016981
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

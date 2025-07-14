@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $_srw_free_character_nude_0: -8139311582353369808
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

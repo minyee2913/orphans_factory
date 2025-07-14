@@ -45,7 +45,7 @@ public class PlayerController : MonoBehaviour
 
         foreach (var pair in nearest)
         {
-            if (pair.Key.tag != "box")
+            if (pair.Key?.tag != "box")
             {
                 continue;
             }

@@ -21,7 +21,7 @@ public class Conveyor : MonoBehaviour
     public Vector2 startPoint, endPoint;
     public List<Vector2> middles = new();
     public Conveyor next;
-    public bool is45;
+    public bool is45, isLast;
     public List<Product> products = new();
     [SerializeField]
     List<Conveying> conveyings = new();
@@ -89,6 +89,36 @@ public class Conveyor : MonoBehaviour
                     }
                     else
                     {
+                        if (isLast)
+                        {
+                            if (conveying.product.tag == "box")
+                            {
+                                Box box = conveying.product.GetComponent<Box>();
+                                if (box != null)
+                                {
+                                    if (box.productsInBox.Count > 0)
+                                    {
+                                        FactoryManager.Instance.coin += 240 * box.productsInBox.Count;
+                                        FactoryManager.Instance.produce += box.productsInBox.Count;
+                                    }
+                                    else
+                                    {
+                                        FactoryManager.Instance.claim++;
+                                    }
+                                }
+                                else
+                                {
+                                    FactoryManager.Instance.claim++;
+                                }
+                            }
+                            else
+                            {
+                                FactoryManager.Instance.claim++;
+                            }
+
+                            PlayerController.Local.nearest.Remove(conveying.product);
+                            Destroy(conveying.product.gameObject);
+                        }
                         conveying.product.Set45(false);
                         conveying.product.onConvey = false;
                     }

@@ -147,6 +147,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d1419d3fa4edc364f83d61cc9689a970, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Id: shoes1
+  defScale: {x: 0, y: 0}
   offset: {x: 0, y: 0}
   dig0: {fileID: 21300000, guid: 1e2f1726c7bb0234fa613a96fe5124b6, type: 3}
   dig45: {fileID: 21300000, guid: 1e2f1726c7bb0234fa613a96fe5124b6, type: 3}

@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $_srw_free_character_nude_0: -8139311582353369808
+      $_srw_free_character_nude_1: -6258661073491142776
+      $_srw_free_character_nude_10: -4133159678714754097
+      $_srw_free_character_nude_11: -2311936323849664604
+      $_srw_free_character_nude_2: 7563323334332748662
+      $_srw_free_character_nude_3: -3667166150049949996
+      $_srw_free_character_nude_4: 6540062361760233579
+      $_srw_free_character_nude_5: -8995193727557266638
+      $_srw_free_character_nude_6: 3461788627854729107
+      $_srw_free_character_nude_7: -2604252902157725987
+      $_srw_free_character_nude_8: 1758591318656015296
+      $_srw_free_character_nude_9: 1360920279553344020
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

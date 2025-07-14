@@ -10,8 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 4338168854050290166}
   - component: {fileID: 741491997683275246}
-  - component: {fileID: 806771311545006498}
   - component: {fileID: 4446349396971827829}
+  - component: {fileID: 1964189096976355216}
   m_Layer: 7
   m_Name: small cardboard box (1)
   m_TagString: product
@@ -89,23 +89,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &806771311545006498
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6703838627668413142}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d1419d3fa4edc364f83d61cc9689a970, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  offset: {x: 0, y: 0.25}
-  dig0: {fileID: 21300000, guid: 2743829efcb4ddd478fecae75fbded13, type: 3}
-  dig45: {fileID: 21300000, guid: 9132885138e967742a0b2d8127bebe6e, type: 3}
-  onConvey: 0
-  isHolding: 0
 --- !u!61 &4446349396971827829
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -152,3 +135,27 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.8235294, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &1964189096976355216
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6703838627668413142}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 236d9f228652ef44383b58412e030f5f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Id: small cardboard box (1)
+  defScale: {x: 0, y: 0}
+  offset: {x: 0, y: 0.25}
+  dig0: {fileID: 21300000, guid: 2743829efcb4ddd478fecae75fbded13, type: 3}
+  dig45: {fileID: 21300000, guid: 9132885138e967742a0b2d8127bebe6e, type: 3}
+  onConvey: 0
+  isHolding: 0
+  openSprite: {fileID: 21300000, guid: f9951da3b33ccfe4086ecf53e93a207d, type: 3}
+  openScale: {x: 2, y: 2}
+  price: 0
+  isOpened: 0
+  productsInBox: []

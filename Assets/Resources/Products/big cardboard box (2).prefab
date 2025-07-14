@@ -10,11 +10,11 @@ GameObject:
   m_Component:
   - component: {fileID: 7374487942517174800}
   - component: {fileID: 6656954588054117630}
-  - component: {fileID: 6906366588030836107}
   - component: {fileID: 1855037616926414416}
+  - component: {fileID: -5061841361317616214}
   m_Layer: 7
   m_Name: big cardboard box (2)
-  m_TagString: product
+  m_TagString: box
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -89,23 +89,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &6906366588030836107
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2438525030301187195}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d1419d3fa4edc364f83d61cc9689a970, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  offset: {x: 0, y: 0.25}
-  dig0: {fileID: 21300000, guid: efd89cec5a0422d46bae0dd7354c57bb, type: 3}
-  dig45: {fileID: 21300000, guid: dea7719fb02562e44ac4a6e68c517d74, type: 3}
-  onConvey: 0
-  isHolding: 0
 --- !u!61 &1855037616926414416
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -152,3 +135,27 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &-5061841361317616214
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2438525030301187195}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 236d9f228652ef44383b58412e030f5f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Id: big cardboard box (2)
+  defScale: {x: 2, y: 2}
+  offset: {x: 0, y: 0.25}
+  dig0: {fileID: 21300000, guid: efd89cec5a0422d46bae0dd7354c57bb, type: 3}
+  dig45: {fileID: 21300000, guid: dea7719fb02562e44ac4a6e68c517d74, type: 3}
+  onConvey: 0
+  isHolding: 0
+  openSprite: {fileID: 21300000, guid: a0bd9d6d5bd37e7489f3d6f140952291, type: 3}
+  openScale: {x: 2, y: 2}
+  price: 0
+  isOpened: 0
+  productsInBox: []
