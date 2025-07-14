@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - product
+  - box
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - unit
+  - Water
+  - UI
+  - conveyor
+  - product
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: shadow
+    uniqueID: 3223411025
+    locked: 0
+  - name: convey
+    uniqueID: 3860092207
+    locked: 0
+  - name: product
+    uniqueID: 2040850223
+    locked: 0
+  - name: unit
+    uniqueID: 1148477425
+    locked: 0
+  - name: ui
+    uniqueID: 1998803513
+    locked: 0
+  m_RenderingLayers:
+  - Default

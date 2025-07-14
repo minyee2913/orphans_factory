@@ -1,0 +1,5040 @@
+fileFormatVersion: 2
+guid: 07018694d6e0717408cc48bf98541a8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7730148929742161634
+    second: conveyor belt 21x21_0
+  - first:
+      213: -5515871696953811728
+    second: conveyor belt 21x21_1
+  - first:
+      213: 6919286298806332797
+    second: conveyor belt 21x21_2
+  - first:
+      213: 1503287195120496390
+    second: conveyor belt 21x21_3
+  - first:
+      213: 3080497010485558422
+    second: conveyor belt 21x21_4
+  - first:
+      213: -2558750765983638112
+    second: conveyor belt 21x21_5
+  - first:
+      213: -566439494766810879
+    second: conveyor belt 21x21_6
+  - first:
+      213: -2909265481564154523
+    second: conveyor belt 21x21_7
+  - first:
+      213: -3243649708314922988
+    second: conveyor belt 21x21_8
+  - first:
+      213: 2506791628436214968
+    second: conveyor belt 21x21_9
+  - first:
+      213: -3633927417765596682
+    second: conveyor belt 21x21_10
+  - first:
+      213: -1777121070467535997
+    second: conveyor belt 21x21_11
+  - first:
+      213: 2544320094477415231
+    second: conveyor belt 21x21_12
+  - first:
+      213: 1200653740421145233
+    second: conveyor belt 21x21_13
+  - first:
+      213: -137460760311149688
+    second: conveyor belt 21x21_14
+  - first:
+      213: 8798594096825779696
+    second: conveyor belt 21x21_15
+  - first:
+      213: -8169064563465657149
+    second: conveyor belt 21x21_16
+  - first:
+      213: 3760957706788142490
+    second: conveyor belt 21x21_17
+  - first:
+      213: 2610592300313455801
+    second: conveyor belt 21x21_18
+  - first:
+      213: 4429748401503691455
+    second: conveyor belt 21x21_19
+  - first:
+      213: 8763344317740157484
+    second: conveyor belt 21x21_20
+  - first:
+      213: 8602252222419801894
+    second: conveyor belt 21x21_21
+  - first:
+      213: 1637907908597923072
+    second: conveyor belt 21x21_22
+  - first:
+      213: 4798321804964853607
+    second: conveyor belt 21x21_23
+  - first:
+      213: -5250460990694727582
+    second: conveyor belt 21x21_24
+  - first:
+      213: -6730773346961631631
+    second: conveyor belt 21x21_25
+  - first:
+      213: 1138772481168925996
+    second: conveyor belt 21x21_26
+  - first:
+      213: -807624990322158207
+    second: conveyor belt 21x21_27
+  - first:
+      213: -3475835620021264186
+    second: conveyor belt 21x21_28
+  - first:
+      213: 715115162621533492
+    second: conveyor belt 21x21_29
+  - first:
+      213: 3954049996855316157
+    second: conveyor belt 21x21_30
+  - first:
+      213: -901621285266389281
+    second: conveyor belt 21x21_31
+  - first:
+      213: -7444499815081404198
+    second: conveyor belt 21x21_32
+  - first:
+      213: -3608219903155666135
+    second: conveyor belt 21x21_33
+  - first:
+      213: 8242480154288711169
+    second: conveyor belt 21x21_34
+  - first:
+      213: 2776989558798048381
+    second: conveyor belt 21x21_35
+  - first:
+      213: -5153687544172646839
+    second: conveyor belt 21x21_36
+  - first:
+      213: -5759887940327876636
+    second: conveyor belt 21x21_37
+  - first:
+      213: -7803498442522678612
+    second: conveyor belt 21x21_38
+  - first:
+      213: -4512280062560260003
+    second: conveyor belt 21x21_39
+  - first:
+      213: -6256142447606048229
+    second: conveyor belt 21x21_40
+  - first:
+      213: -1825552353973448922
+    second: conveyor belt 21x21_41
+  - first:
+      213: 7777577420239727527
+    second: conveyor belt 21x21_42
+  - first:
+      213: -7558000810105236259
+    second: conveyor belt 21x21_43
+  - first:
+      213: 8556865186879180233
+    second: conveyor belt 21x21_44
+  - first:
+      213: -3304654293093853407
+    second: conveyor belt 21x21_45
+  - first:
+      213: 6895427041137497006
+    second: conveyor belt 21x21_46
+  - first:
+      213: -5402407109685848237
+    second: conveyor belt 21x21_47
+  - first:
+      213: -3154575717979675518
+    second: conveyor belt 21x21_48
+  - first:
+      213: -8801337065339634366
+    second: conveyor belt 21x21_49
+  - first:
+      213: -7102198401774071036
+    second: conveyor belt 21x21_50
+  - first:
+      213: 2140178909714962150
+    second: conveyor belt 21x21_51
+  - first:
+      213: -5683534568145090223
+    second: conveyor belt 21x21_52
+  - first:
+      213: 8566188735674452251
+    second: conveyor belt 21x21_53
+  - first:
+      213: 6506342556739012802
+    second: conveyor belt 21x21_54
+  - first:
+      213: 1070954922482620689
+    second: conveyor belt 21x21_55
+  - first:
+      213: -1115631053161569060
+    second: conveyor belt 21x21_56
+  - first:
+      213: -4566291091172137417
+    second: conveyor belt 21x21_57
+  - first:
+      213: -8277475699971149430
+    second: conveyor belt 21x21_58
+  - first:
+      213: -6990473614168077148
+    second: conveyor belt 21x21_59
+  - first:
+      213: 5125719935586095998
+    second: conveyor belt 21x21_60
+  - first:
+      213: -8947234653218453049
+    second: conveyor belt 21x21_61
+  - first:
+      213: 8867609988852904128
+    second: conveyor belt 21x21_62
+  - first:
+      213: -5996569960435116424
+    second: conveyor belt 21x21_63
+  - first:
+      213: 1309871260252640961
+    second: conveyor belt 21x21_64
+  - first:
+      213: 4912379222488800877
+    second: conveyor belt 21x21_65
+  - first:
+      213: 5762120694983632856
+    second: conveyor belt 21x21_66
+  - first:
+      213: 8044884383356662215
+    second: conveyor belt 21x21_67
+  - first:
+      213: 5508006841462374243
+    second: conveyor belt 21x21_68
+  - first:
+      213: 6394573890590361826
+    second: conveyor belt 21x21_69
+  - first:
+      213: 1119078494097117476
+    second: conveyor belt 21x21_70
+  - first:
+      213: -7980022943649087712
+    second: conveyor belt 21x21_71
+  - first:
+      213: -373125636218889799
+    second: conveyor belt 21x21_72
+  - first:
+      213: -4811571390391993336
+    second: conveyor belt 21x21_73
+  - first:
+      213: -7031475710688371730
+    second: conveyor belt 21x21_74
+  - first:
+      213: -7772152909321717968
+    second: conveyor belt 21x21_75
+  - first:
+      213: 4296459470973051033
+    second: conveyor belt 21x21_76
+  - first:
+      213: 6669952387972236090
+    second: conveyor belt 21x21_77
+  - first:
+      213: 3157552827543202376
+    second: conveyor belt 21x21_78
+  - first:
+      213: -2142415732865228249
+    second: conveyor belt 21x21_79
+  - first:
+      213: 3638436382784878966
+    second: conveyor belt 21x21_80
+  - first:
+      213: -810312642409994568
+    second: conveyor belt 21x21_81
+  - first:
+      213: 812472894024046704
+    second: conveyor belt 21x21_82
+  - first:
+      213: 6393322543432881989
+    second: conveyor belt 21x21_83
+  - first:
+      213: 5150156178465595166
+    second: conveyor belt 21x21_84
+  - first:
+      213: -3744936533493976166
+    second: conveyor belt 21x21_85
+  - first:
+      213: -1808891909410602643
+    second: conveyor belt 21x21_86
+  - first:
+      213: -1367460592368540964
+    second: conveyor belt 21x21_87
+  - first:
+      213: -5792361193417836660
+    second: conveyor belt 21x21_88
+  - first:
+      213: -2948376001656239536
+    second: conveyor belt 21x21_89
+  - first:
+      213: -3973044139336054314
+    second: conveyor belt 21x21_90
+  - first:
+      213: 6402362775794309167
+    second: conveyor belt 21x21_91
+  - first:
+      213: -3654286596302592889
+    second: conveyor belt 21x21_92
+  - first:
+      213: -7866973996276889030
+    second: conveyor belt 21x21_93
+  - first:
+      213: -1826082461093744329
+    second: conveyor belt 21x21_94
+  - first:
+      213: -1604140303288071603
+    second: conveyor belt 21x21_95
+  - first:
+      213: -3266813565003184633
+    second: conveyor belt 21x21_96
+  - first:
+      213: 6697459042218537414
+    second: conveyor belt 21x21_97
+  - first:
+      213: 5871464356257023113
+    second: conveyor belt 21x21_98
+  - first:
+      213: -1465744480702470636
+    second: conveyor belt 21x21_99
+  - first:
+      213: -1872044723724449388
+    second: conveyor belt 21x21_100
+  - first:
+      213: -2008644204977438712
+    second: conveyor belt 21x21_101
+  - first:
+      213: -3998081822145688407
+    second: conveyor belt 21x21_102
+  - first:
+      213: 7403839685663127525
+    second: conveyor belt 21x21_103
+  - first:
+      213: -3030264889157787303
+    second: conveyor belt 21x21_104
+  - first:
+      213: -514374336344720516
+    second: conveyor belt 21x21_105
+  - first:
+      213: 873632325101331518
+    second: conveyor belt 21x21_106
+  - first:
+      213: -247991257210201960
+    second: conveyor belt 21x21_107
+  - first:
+      213: 2939422593032887059
+    second: conveyor belt 21x21_108
+  - first:
+      213: 6661889607504346048
+    second: conveyor belt 21x21_109
+  - first:
+      213: -1844341942611720631
+    second: conveyor belt 21x21_110
+  - first:
+      213: -8534029026379969667
+    second: conveyor belt 21x21_111
+  - first:
+      213: 2749781950260281768
+    second: conveyor belt 21x21_112
+  - first:
+      213: -2586257187977435357
+    second: conveyor belt 21x21_113
+  - first:
+      213: -7756160417895701840
+    second: conveyor belt 21x21_114
+  - first:
+      213: 94881402283323978
+    second: conveyor belt 21x21_115
+  - first:
+      213: 863328450076242193
+    second: conveyor belt 21x21_116
+  - first:
+      213: -1341971321116001199
+    second: conveyor belt 21x21_117
+  - first:
+      213: -1516593849918990538
+    second: conveyor belt 21x21_118
+  - first:
+      213: -4061771244300353544
+    second: conveyor belt 21x21_119
+  - first:
+      213: 5065761424702226968
+    second: conveyor belt 21x21_120
+  - first:
+      213: -5690421161397571355
+    second: conveyor belt 21x21_121
+  - first:
+      213: 2460346686370556271
+    second: conveyor belt 21x21_122
+  - first:
+      213: 3173856389553795937
+    second: conveyor belt 21x21_123
+  - first:
+      213: 1129688188629396749
+    second: conveyor belt 21x21_124
+  - first:
+      213: -1812839221891406223
+    second: conveyor belt 21x21_125
+  - first:
+      213: -6744650569365285050
+    second: conveyor belt 21x21_126
+  - first:
+      213: -5907108832128170118
+    second: conveyor belt 21x21_127
+  - first:
+      213: -8811946230411603180
+    second: conveyor belt 21x21_128
+  - first:
+      213: 5616592088818544282
+    second: conveyor belt 21x21_129
+  - first:
+      213: -420713162553769094
+    second: conveyor belt 21x21_130
+  - first:
+      213: -6169699428748832841
+    second: conveyor belt 21x21_131
+  - first:
+      213: 5052366425018634646
+    second: conveyor belt 21x21_132
+  - first:
+      213: 2996332487351642000
+    second: conveyor belt 21x21_133
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 21
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: conveyor belt 21x21_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 567
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b247e1aeebd334a9dde8743ddbe322
+      internalID: -157344535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 567
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f402403521297d94dab38606964697b8
+      internalID: -2010586919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 567
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4951253c3c1d8f04c9bc81bf6a8676d1
+      internalID: -1594792963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 567
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c10969bba38af24f8d7cd586283017d
+      internalID: 1488255942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 567
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d92416a3963a641ac504c00e307862
+      internalID: -1094484796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 567
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b44dbc25bb08ca469b097a66992c53a
+      internalID: 758667895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_6
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 567
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3157898da483e4592c29ef368cd2fd
+      internalID: 613592207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5016952a2cb678d43b204e8c7f20323f
+      internalID: -249842957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 546
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a35eebce8917f64b87c60cf44ba734e
+      internalID: 2013595517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 546
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e5101f41fe5484291d68e923537dee
+      internalID: 1853696155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 546
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe46db050040754faf806be03e76afa
+      internalID: -935541139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 546
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7e8a34e4ef65742965e681daefdec7
+      internalID: 1255981995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_12
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 546
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b8baea689060146b9432ec9a71f324
+      internalID: -2023793871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_13
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 546
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f27b64aa3836504fb076b2068d07ed1
+      internalID: -1684611899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705621197b670684080cad376e21db05
+      internalID: -93211606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 525
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24922ca32aeb230458a58e845225dc5e
+      internalID: 635935196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 525
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77beb0a3295e2ad4e94fe4e5e75f308b
+      internalID: 1209009249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 525
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2094a42bbaa66f0488ff0a4be3cb00e6
+      internalID: -2082709809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 525
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffa2d3054ebff74cbcc1f5acc3bec6c
+      internalID: -287712908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 525
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbecd239690495459fb9de681b1dee8
+      internalID: 1686718854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_20
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 525
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c742e49f27bfa274197a8b3cf6b48d0a
+      internalID: -1872190300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcbeac60cb55d84b97e042e3a25bc6f
+      internalID: 1245239687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_22
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 504
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af31417c7a792d49b9947aa34839503
+      internalID: 2074928077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_23
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 504
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420a1e01e0d89474291e35e247cf20d3
+      internalID: -226886668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_24
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 504
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a6faff4ab6dab4da56c982aee9d11c
+      internalID: 1981355229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 504
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10ac1545c8978d409c6644fa6972de5
+      internalID: -1924914298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 504
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674e89b3076936544bfb67d657edd5b3
+      internalID: -593999121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_27
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 504
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acc6fd0ac9e7ad4f979cb61231821fb
+      internalID: -604575476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 483
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2353460bd64d945bf8064e87404df9
+      internalID: -21850116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_29
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 483
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919753cbde5e43c4daa387d74b7d0921
+      internalID: 1907950165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_30
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 483
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8444587608b9b9344983a8848a8f09f0
+      internalID: 1658093380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_31
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 483
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfda887a956a02a47b213a6a94c97d75
+      internalID: -1596994292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_32
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 483
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ff1cb45cf99dc41a824532b9635fe3
+      internalID: -58802374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_33
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 483
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccd9989e2885c440b24f2ce79afec57
+      internalID: 1809081457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_34
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 483
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e1f8b94ad04a84f82461f61ce356ed
+      internalID: -636458914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055b8390ebd9c1b4ba86f558728849aa
+      internalID: 50092798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 462
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac83e2ebbf43ec24283b3b31d961b148
+      internalID: -229970650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_37
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 462
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a52a148e3c2c14da28276985a9fc10
+      internalID: 1920565183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_38
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 462
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6e184bef055b547859d4820c77b144
+      internalID: 1886241102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_39
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 462
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2af8fbe81231ab45b856bd96e01037c
+      internalID: 145756288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_40
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 462
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31c5e91612e753488b637d406a35cc7
+      internalID: -58594983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_41
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 462
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756861a3422194942971e5f3c3a9ab18
+      internalID: 2109162209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84086b012a47ed24aa53988cbe1bd649
+      internalID: 1819405539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_43
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 441
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8aaecd9c012c24bad13085f3fa30de
+      internalID: 77848753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_44
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 441
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b028d4f9e5e3c574889793f46b4c7e62
+      internalID: -1273696473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_45
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 441
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf47edd97a90bf4b9fb4aeeaadfe64c
+      internalID: -560220037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_46
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 441
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c65b68a9f73e074dada5f436898e140
+      internalID: 1067609444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_47
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 441
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c08dc0f3721c754788f75a45f2ec07d
+      internalID: 2054878757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_48
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 441
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f0e031017f1f2438c8c5be6d6a8520
+      internalID: 1358538158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d58189e1469bb7479dae2d3b82bd6bc
+      internalID: 499684799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_50
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 420
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28c88889b7aee048bec4de76eb460b9
+      internalID: 1336068488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_51
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 420
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4a0b753c8d373448ec6a8bf895bb5d
+      internalID: 1525584915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_52
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 420
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d66ba4d2ab6534aa42f87ae0632fc6
+      internalID: -803151956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_53
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 420
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca0778ac7b3b444b80960d7a25b627e
+      internalID: -579296015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_54
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 420
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2fc65163a0c4d4d9a7580ec97d5a4d
+      internalID: 1713925522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_55
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 420
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97d755cff95c5a4ea459ffa74563adf
+      internalID: 918163313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608cb2bdd73961146bd8bd352654c4aa
+      internalID: 783313103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_57
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 399
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a28c885f1620c43bb83f23db5b73e4
+      internalID: -1595663490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_58
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 399
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4511e83d9110f8743be0344d2e74932f
+      internalID: 61770208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_59
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 399
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391cd88978c5ada448405b2fcca31a2f
+      internalID: -626187416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_60
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 399
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecf54e587d55be4c92fe60ece3925cf
+      internalID: -1870414876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_61
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 399
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7104f32e329e7e6488d569a9b95d53f9
+      internalID: 765713531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_62
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 399
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96e3ac20d236da47a1e88d8e49816e5
+      internalID: 1733078369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6cfd511d8b6d0498d71c68e769d4ef
+      internalID: 997444007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_64
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 378
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48090a765069f2e478078d35aefab05d
+      internalID: -174245800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_65
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 378
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e621bd59565597f4ea5bacd282f29291
+      internalID: 1948468365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_66
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 378
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7c60d9e69294e4889cd1621818297f
+      internalID: 870105201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_67
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 378
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933373307a2da5240ab9e00177ce9a56
+      internalID: 1284042565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_68
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 378
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1e86c5c1f28364fabcd2ffeadc9bac
+      internalID: 1192699747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_69
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 378
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4a7247ffa976f49b1a8ecdcf3e5f83
+      internalID: -469250994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 357
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04672f53a91c9354da03451e6078c264
+      internalID: -1635515083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_71
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 357
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9109c6669ca1b1459f6005f0bb00505
+      internalID: -1023231216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_72
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 357
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c6b817b6665ae4d93ecf138a0f33c5
+      internalID: 1646165795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_73
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 357
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fafe199527bc148be15dbf7856d967
+      internalID: 1293219759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_74
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 357
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c063e086744b21140b443dbe78bb478b
+      internalID: 1523201124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_75
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 357
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c11564bb6b9cbe4da1c581870a60006
+      internalID: -1448212860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_76
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 357
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d876d4bd5bc7364b9e75dd55838acef
+      internalID: 2020493135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef107f0457d63b4d8d9507ae90062a4
+      internalID: -1533161121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_78
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 336
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbfd6a21169b0346b0c3e63bc55e3f6
+      internalID: 86414066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_79
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 336
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b37ea34e541d54381bb3acd1881f3d
+      internalID: -2094590916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_80
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 336
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a622f9311c4a46d428a405582b85c388
+      internalID: 655206323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_81
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 336
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5859365d588ca4ba4c97b02a32024b
+      internalID: 294250375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_82
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 336
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0f684d63ca045458156b3f1a2dfa23
+      internalID: -1921176936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_83
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 336
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4140364d0459d643ae9f56d21b551c2
+      internalID: 57644338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c838aec0b575544aab536f2ee9d398
+      internalID: -280073443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_85
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 315
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9edf73023da3144891eb60edb12214
+      internalID: 479827377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_86
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 315
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7567ed75278181489c8b56445165378
+      internalID: -1620590019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_87
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 315
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3ad95db7d0b224ba2e702709dc77d8
+      internalID: -83771773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_88
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 315
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c29681b0dfbe80439796f620ea49dec
+      internalID: 620063062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_89
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 315
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad51d44de3666474c8f3ae1637d4bd2e
+      internalID: 272289667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_90
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 315
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf1a9479aedf8c43b97931aaf1bcf4d
+      internalID: 1624868393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1f4e1384d1033448d5809c118d2077
+      internalID: -1110560246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_92
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 294
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cecb40b411e16c4684933ec47bb2c98
+      internalID: 311831123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_93
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 294
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdc1da9282d17f4ba0709d25ad50b59
+      internalID: -748672262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_94
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 294
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db803e08060fa454782ff8bb5f34955e
+      internalID: -702537393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_95
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 294
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cd1c97aafbbf549aebdfc80031005b
+      internalID: 1595593971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_96
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 294
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1d23b6f65cc2640831cd8599f1dd18
+      internalID: -1788874912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_97
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 294
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6872e929945c048aab55ccc7827523
+      internalID: -1848284102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de07c4f7d4c4f2648b2d23a343f8be8f
+      internalID: -43542808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_99
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 273
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c8de148180c4740a26a33d758adafb
+      internalID: -1476154552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_100
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 273
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d65ab1adaed9c648a9263cad756f752
+      internalID: 1917616489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_101
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 273
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03312a95f53db774a8b93b293adb92fb
+      internalID: -379843978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_102
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 273
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6460d42b868d75e4180cd7e9b704e0ed
+      internalID: -765587816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_103
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 273
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d314378ed2868458157223acdbfcd2
+      internalID: -1878466609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_104
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 273
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f4d52fa2fcb984eb1c980904e3fec2
+      internalID: 747649119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1a6f90486a30c498e22a5a8f32b156
+      internalID: 589960018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_106
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 252
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74fd067be325a64187741152844d8a5
+      internalID: -1478082201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_107
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 252
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd2def063dbd614e9fbd87e5f440c9d
+      internalID: -411214644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_108
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 252
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1771906b9f4e90b48a9638ae2cfc6506
+      internalID: 1532941678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_109
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 252
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec432739ea889b6408d4909d3b8a5284
+      internalID: -665599317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_110
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 252
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fecf0f9e3ce49248bc56864307e79da
+      internalID: -882399862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_111
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 252
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe361c14ee69374ebe238445b4401c5
+      internalID: -721573891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd4b4ee901f5a049887fb6059f43afe
+      internalID: -1329271803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_113
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 231
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e1ae06c4607f149a5fc479820ed21f
+      internalID: 323601178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_114
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 231
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3558d4c075368294cab35c4110908ded
+      internalID: 2122914653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_115
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 231
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed811ba4694ab41419c48c57b22a28a9
+      internalID: 2074476966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_116
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 231
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfddcedb6dc9ca47a2f405e8ce9e5c9
+      internalID: -2106237133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_117
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 231
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b765291310a7442a4266ee976aab42
+      internalID: 952005016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_118
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 231
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1f4d095995fe144a0fbb89c49eb977
+      internalID: 2007765256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f44f998542ff547a6471ad19d4290b
+      internalID: 1890869198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_120
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 210
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f129a4b5f38bf45aa3323b61bb4101
+      internalID: 857105380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_121
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 210
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4407edb0d9d764b96d0dbb672de964
+      internalID: 729543931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_122
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 210
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f8ab20d87e3894f8e753a756e7ff08
+      internalID: 1737090116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_123
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 210
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977a37b94d3ba8e439afbf50ea4e5a1f
+      internalID: -117707912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_124
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 210
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45edf3c1c6d46024998361348d843739
+      internalID: -802639099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_125
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 210
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74c176502f450f4f8bacadc7a767390
+      internalID: -200419125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bb9120df314ab41bf118ffba19234f
+      internalID: 1584404153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_127
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 189
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a560c0ece01c8408baef2f7dc540e5
+      internalID: 1419756296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_128
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 189
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc8cde47c62bb145b69a847bc4418a4
+      internalID: 815230505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_129
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 189
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2035dc286f1c50347bdd48096e441ac2
+      internalID: 1701803433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_130
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 189
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c411532db1ce154c8fa930dd2e610ed
+      internalID: 1874396156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_131
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 189
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad314fe49615f0942a2b9be866d22954
+      internalID: -16904801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_132
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 189
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bec5355168765d4da3240658cd01ef5
+      internalID: -2062046162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c048dc3879390644cb3a2fa85f231d53
+      internalID: -1585262494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_134
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 168
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec9e63a8ccec31419737ef146064eea
+      internalID: -47348140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_135
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 168
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff1acabb4d23cc4a87baccb93146f52
+      internalID: 674204762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_136
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 168
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234b42cfd212d404fa756566dcdd6709
+      internalID: 217210505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_137
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 168
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d66ee91adaac7546a8e872a8cc79b6c
+      internalID: -1951388079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_138
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 168
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051dfc763e39ab74a8b41b7d9980c587
+      internalID: 1633093024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_139
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 168
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5937f41df993c7b4f9ddbd7b61acc0ce
+      internalID: 1154458115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1338d855610bf44aaee7e9a2f02a2c4
+      internalID: 1798204796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_141
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 147
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77a26c07d8989b4db35d1b9acc72edc
+      internalID: -237994714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_142
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 147
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731fddd6a32392a4bae423112a8d2183
+      internalID: 287223100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_143
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 147
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9d4a32d8cf51549a1ad1ac1d2d941e
+      internalID: 182204425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_144
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 147
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3490932ad24f02b4ca1da7a6b0ba3c91
+      internalID: -1226053091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_145
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 147
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dd0e5a73968dd4db7bc3317f2cc0fa
+      internalID: 1207289902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_146
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 147
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3075822815118d4991c148b926d0e13
+      internalID: 1249593168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffde9bd2f0740a549b6f913f6dddfed5
+      internalID: -90680025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_148
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 126
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9291d72b22e71847b85f258df66d248
+      internalID: -2075101285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_149
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 126
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058b0bfdafe05604ca6515b4696ca03e
+      internalID: -2104927136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_150
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 126
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707c2859740c05b4b9ce96b562fd8b82
+      internalID: -390151763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_151
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 126
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1733b7d10a1f8184cba1a3732b681ac2
+      internalID: 915309363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_152
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 126
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49465232e95086d4bb144803d57b03bb
+      internalID: -2040484600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_153
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 126
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41fd711553f8584192bf1edeadb02d6
+      internalID: 1494419671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737e71ad577cc5244974ac2a2586332f
+      internalID: -298395560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_155
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 105
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daad8620e52d996419635892980285e4
+      internalID: -1796166021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_156
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 105
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cfea7c9e1002440ad614b7f1932a3d
+      internalID: -1753162542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_157
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 105
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd657b2ed928d0445ad9eb0307890007
+      internalID: -1116836019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_158
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 105
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abcb0b3c74748b4bb4f9135f6042a87
+      internalID: 1093839119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_159
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 105
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e711f0c763e98f14eadfe920d2d109d9
+      internalID: 637133963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_160
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 105
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2796c228961e474ba70bcc6c62a4ff3
+      internalID: -485982945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e734b97631e51b41998a47d8d85defd
+      internalID: -94319881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_162
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 84
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6628da4cfde42724bb40171722757ffe
+      internalID: 705413996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_163
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 84
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e100090b0c9e9489fcc63e58ce2575
+      internalID: 565759818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_164
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 84
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7208517be75ae442a8f9e1bd6d79d35
+      internalID: -2138505021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_165
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 84
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fcb879767e76c46907a47cc5de403c
+      internalID: -1742225003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_166
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 84
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2340f8bfe83d9de4dba2d70db4862792
+      internalID: 1841385022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_167
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 84
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc415bb2c90bb442bac3f2fa570684d
+      internalID: 2002048065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e114d26b355cba042912629812e79cb5
+      internalID: 750433606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_169
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 63
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c863abb733c85408bd855412666fb6
+      internalID: 1830993422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_170
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 63
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afdea3e44b773c4da2695f57c0c15f3
+      internalID: 1014138746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_171
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c364d9121037ab40b244a02923bfb15
+      internalID: 121589810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_172
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 63
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497dfe0808863ef4d826b8816e89c94a
+      internalID: -1888538109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_173
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 63
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892b76545005c0c468e7c746f5f15e95
+      internalID: 307892684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_174
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 63
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d886fb23b2ac245a44aefe1acf6835
+      internalID: -423081761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12391bc4f7a768a42bffbf707d49a0f6
+      internalID: -645918865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_176
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 42
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa91163a2dc36d74683122c1ccf3a16e
+      internalID: -1239288206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_177
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 42
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd34b4f4db82d764982d87f8b9c7d600
+      internalID: 2107398786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_178
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 42
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2162922ef3863334fa824ab32b4db533
+      internalID: -592328620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_179
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 42
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c243d2b706a19824e8a7751c5326a106
+      internalID: -1303311217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_180
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 42
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d71041b2f1207d48897f06e88437986
+      internalID: 1122921227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_181
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 42
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbcb82a6ce3d024fb7b14d5bceb69cd
+      internalID: -764171883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666493149a69cf045b51cbd3f3751172
+      internalID: -666593239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_183
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 21
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3ec8ffcaf4ebe49b160a3c7ca30e3f
+      internalID: -738684905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_184
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 21
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f386641338589a44b33b2f0b2222099
+      internalID: 32502449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_185
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 21
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1072917b872b49a4684a2d3f9e2fd61a
+      internalID: -1010402462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_186
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 21
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed1f3d6512b0a945b50422d4fdfe6c5
+      internalID: 1629040232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_187
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 21
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c130fdcbaa3aad419b7243264b6fdc7
+      internalID: 789569005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_188
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 21
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dc5581e9824fa4ba96f544e909fde5
+      internalID: 1711691029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee83e88711fe684993fd380b73495c7
+      internalID: 1364714807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_190
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebb89e08a23cd44dac7cb003ce133fd
+      internalID: -1922099141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_191
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fd07d3dcc45dd43a81269ee526119f
+      internalID: 1338432438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_192
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b211d7487f7afc94ab1f2a58f0ddbec8
+      internalID: -1530604331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_193
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29e502a5f9b59646bda17da990348d9
+      internalID: 79898091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_194
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400fedbef050ab9409b4b7fe32ae9062
+      internalID: -319537792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conveyor belt 21x21_195
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc4bb0fcc5ff964e8b8e821c7c4bc5a
+      internalID: -744752415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3d4f85f078b4b814cbf9e1fac909da91
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      conveyor belt 21x21_0: -157344535
+      conveyor belt 21x21_1: -2010586919
+      conveyor belt 21x21_10: -935541139
+      conveyor belt 21x21_100: 1917616489
+      conveyor belt 21x21_101: -379843978
+      conveyor belt 21x21_102: -765587816
+      conveyor belt 21x21_103: -1878466609
+      conveyor belt 21x21_104: 747649119
+      conveyor belt 21x21_105: 589960018
+      conveyor belt 21x21_106: -1478082201
+      conveyor belt 21x21_107: -411214644
+      conveyor belt 21x21_108: 1532941678
+      conveyor belt 21x21_109: -665599317
+      conveyor belt 21x21_11: 1255981995
+      conveyor belt 21x21_110: -882399862
+      conveyor belt 21x21_111: -721573891
+      conveyor belt 21x21_112: -1329271803
+      conveyor belt 21x21_113: 323601178
+      conveyor belt 21x21_114: 2122914653
+      conveyor belt 21x21_115: 2074476966
+      conveyor belt 21x21_116: -2106237133
+      conveyor belt 21x21_117: 952005016
+      conveyor belt 21x21_118: 2007765256
+      conveyor belt 21x21_119: 1890869198
+      conveyor belt 21x21_12: -2023793871
+      conveyor belt 21x21_120: 857105380
+      conveyor belt 21x21_121: 729543931
+      conveyor belt 21x21_122: 1737090116
+      conveyor belt 21x21_123: -117707912
+      conveyor belt 21x21_124: -802639099
+      conveyor belt 21x21_125: -200419125
+      conveyor belt 21x21_126: 1584404153
+      conveyor belt 21x21_127: 1419756296
+      conveyor belt 21x21_128: 815230505
+      conveyor belt 21x21_129: 1701803433
+      conveyor belt 21x21_13: -1684611899
+      conveyor belt 21x21_130: 1874396156
+      conveyor belt 21x21_131: -16904801
+      conveyor belt 21x21_132: -2062046162
+      conveyor belt 21x21_133: -1585262494
+      conveyor belt 21x21_134: -47348140
+      conveyor belt 21x21_135: 674204762
+      conveyor belt 21x21_136: 217210505
+      conveyor belt 21x21_137: -1951388079
+      conveyor belt 21x21_138: 1633093024
+      conveyor belt 21x21_139: 1154458115
+      conveyor belt 21x21_14: -93211606
+      conveyor belt 21x21_140: 1798204796
+      conveyor belt 21x21_141: -237994714
+      conveyor belt 21x21_142: 287223100
+      conveyor belt 21x21_143: 182204425
+      conveyor belt 21x21_144: -1226053091
+      conveyor belt 21x21_145: 1207289902
+      conveyor belt 21x21_146: 1249593168
+      conveyor belt 21x21_147: -90680025
+      conveyor belt 21x21_148: -2075101285
+      conveyor belt 21x21_149: -2104927136
+      conveyor belt 21x21_15: 635935196
+      conveyor belt 21x21_150: -390151763
+      conveyor belt 21x21_151: 915309363
+      conveyor belt 21x21_152: -2040484600
+      conveyor belt 21x21_153: 1494419671
+      conveyor belt 21x21_154: -298395560
+      conveyor belt 21x21_155: -1796166021
+      conveyor belt 21x21_156: -1753162542
+      conveyor belt 21x21_157: -1116836019
+      conveyor belt 21x21_158: 1093839119
+      conveyor belt 21x21_159: 637133963
+      conveyor belt 21x21_16: 1209009249
+      conveyor belt 21x21_160: -485982945
+      conveyor belt 21x21_161: -94319881
+      conveyor belt 21x21_162: 705413996
+      conveyor belt 21x21_163: 565759818
+      conveyor belt 21x21_164: -2138505021
+      conveyor belt 21x21_165: -1742225003
+      conveyor belt 21x21_166: 1841385022
+      conveyor belt 21x21_167: 2002048065
+      conveyor belt 21x21_168: 750433606
+      conveyor belt 21x21_169: 1830993422
+      conveyor belt 21x21_17: -2082709809
+      conveyor belt 21x21_170: 1014138746
+      conveyor belt 21x21_171: 121589810
+      conveyor belt 21x21_172: -1888538109
+      conveyor belt 21x21_173: 307892684
+      conveyor belt 21x21_174: -423081761
+      conveyor belt 21x21_175: -645918865
+      conveyor belt 21x21_176: -1239288206
+      conveyor belt 21x21_177: 2107398786
+      conveyor belt 21x21_178: -592328620
+      conveyor belt 21x21_179: -1303311217
+      conveyor belt 21x21_18: -287712908
+      conveyor belt 21x21_180: 1122921227
+      conveyor belt 21x21_181: -764171883
+      conveyor belt 21x21_182: -666593239
+      conveyor belt 21x21_183: -738684905
+      conveyor belt 21x21_184: 32502449
+      conveyor belt 21x21_185: -1010402462
+      conveyor belt 21x21_186: 1629040232
+      conveyor belt 21x21_187: 789569005
+      conveyor belt 21x21_188: 1711691029
+      conveyor belt 21x21_189: 1364714807
+      conveyor belt 21x21_19: 1686718854
+      conveyor belt 21x21_190: -1922099141
+      conveyor belt 21x21_191: 1338432438
+      conveyor belt 21x21_192: -1530604331
+      conveyor belt 21x21_193: 79898091
+      conveyor belt 21x21_194: -319537792
+      conveyor belt 21x21_195: -744752415
+      conveyor belt 21x21_2: -1594792963
+      conveyor belt 21x21_20: -1872190300
+      conveyor belt 21x21_21: 1245239687
+      conveyor belt 21x21_22: 2074928077
+      conveyor belt 21x21_23: -226886668
+      conveyor belt 21x21_24: 1981355229
+      conveyor belt 21x21_25: -1924914298
+      conveyor belt 21x21_26: -593999121
+      conveyor belt 21x21_27: -604575476
+      conveyor belt 21x21_28: -21850116
+      conveyor belt 21x21_29: 1907950165
+      conveyor belt 21x21_3: 1488255942
+      conveyor belt 21x21_30: 1658093380
+      conveyor belt 21x21_31: -1596994292
+      conveyor belt 21x21_32: -58802374
+      conveyor belt 21x21_33: 1809081457
+      conveyor belt 21x21_34: -636458914
+      conveyor belt 21x21_35: 50092798
+      conveyor belt 21x21_36: -229970650
+      conveyor belt 21x21_37: 1920565183
+      conveyor belt 21x21_38: 1886241102
+      conveyor belt 21x21_39: 145756288
+      conveyor belt 21x21_4: -1094484796
+      conveyor belt 21x21_40: -58594983
+      conveyor belt 21x21_41: 2109162209
+      conveyor belt 21x21_42: 1819405539
+      conveyor belt 21x21_43: 77848753
+      conveyor belt 21x21_44: -1273696473
+      conveyor belt 21x21_45: -560220037
+      conveyor belt 21x21_46: 1067609444
+      conveyor belt 21x21_47: 2054878757
+      conveyor belt 21x21_48: 1358538158
+      conveyor belt 21x21_49: 499684799
+      conveyor belt 21x21_5: 758667895
+      conveyor belt 21x21_50: 1336068488
+      conveyor belt 21x21_51: 1525584915
+      conveyor belt 21x21_52: -803151956
+      conveyor belt 21x21_53: -579296015
+      conveyor belt 21x21_54: 1713925522
+      conveyor belt 21x21_55: 918163313
+      conveyor belt 21x21_56: 783313103
+      conveyor belt 21x21_57: -1595663490
+      conveyor belt 21x21_58: 61770208
+      conveyor belt 21x21_59: -626187416
+      conveyor belt 21x21_6: 613592207
+      conveyor belt 21x21_60: -1870414876
+      conveyor belt 21x21_61: 765713531
+      conveyor belt 21x21_62: 1733078369
+      conveyor belt 21x21_63: 997444007
+      conveyor belt 21x21_64: -174245800
+      conveyor belt 21x21_65: 1948468365
+      conveyor belt 21x21_66: 870105201
+      conveyor belt 21x21_67: 1284042565
+      conveyor belt 21x21_68: 1192699747
+      conveyor belt 21x21_69: -469250994
+      conveyor belt 21x21_7: -249842957
+      conveyor belt 21x21_70: -1635515083
+      conveyor belt 21x21_71: -1023231216
+      conveyor belt 21x21_72: 1646165795
+      conveyor belt 21x21_73: 1293219759
+      conveyor belt 21x21_74: 1523201124
+      conveyor belt 21x21_75: -1448212860
+      conveyor belt 21x21_76: 2020493135
+      conveyor belt 21x21_77: -1533161121
+      conveyor belt 21x21_78: 86414066
+      conveyor belt 21x21_79: -2094590916
+      conveyor belt 21x21_8: 2013595517
+      conveyor belt 21x21_80: 655206323
+      conveyor belt 21x21_81: 294250375
+      conveyor belt 21x21_82: -1921176936
+      conveyor belt 21x21_83: 57644338
+      conveyor belt 21x21_84: -280073443
+      conveyor belt 21x21_85: 479827377
+      conveyor belt 21x21_86: -1620590019
+      conveyor belt 21x21_87: -83771773
+      conveyor belt 21x21_88: 620063062
+      conveyor belt 21x21_89: 272289667
+      conveyor belt 21x21_9: 1853696155
+      conveyor belt 21x21_90: 1624868393
+      conveyor belt 21x21_91: -1110560246
+      conveyor belt 21x21_92: 311831123
+      conveyor belt 21x21_93: -748672262
+      conveyor belt 21x21_94: -702537393
+      conveyor belt 21x21_95: 1595593971
+      conveyor belt 21x21_96: -1788874912
+      conveyor belt 21x21_97: -1848284102
+      conveyor belt 21x21_98: -43542808
+      conveyor belt 21x21_99: -1476154552
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
