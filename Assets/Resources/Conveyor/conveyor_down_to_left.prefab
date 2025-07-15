@@ -133,7 +133,8 @@ MonoBehaviour:
   - {x: -0.56, y: -0.12}
   - {x: -0.77, y: -0.03}
   next: {fileID: 0}
-  is45: 0
+  is45: 1
+  isLast: 0
   products: []
   conveyings: []
 --- !u!68 &2351908277032055958

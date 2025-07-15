@@ -27,7 +27,7 @@ public class PlayerController : MonoBehaviour
             }
             else
             {
-                if (dist < pair.Value)
+                if (dist > pair.Value)
                 {
                     product = pair.Key;
                     dist = pair.Value;
@@ -57,7 +57,7 @@ public class PlayerController : MonoBehaviour
             }
             else
             {
-                if (dist < pair.Value)
+                if (dist > pair.Value)
                 {
                     product = pair.Key;
                     dist = pair.Value;
